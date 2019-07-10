@@ -1,0 +1,3 @@
+salesforce-service:
+  url: http://localhost:8080
+  path: /mypath/is/not/null
